@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yster-gaurav
 - 👀 I’m interested in backend services.
-- 🌱 I’m currently learning to make enterprize projects.
+- 🌱 I’m currently learning to make enterprise projects.
 - 💞️ I’m looking to collaborate on Backend Services.
 - 📫 How to reach me +91 7719329235
 
